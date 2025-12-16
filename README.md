@@ -1,10 +1,10 @@
 🏥 Medical Insurance Cost Analysis
 
-EDA • ETL • SQL • Tableau
+EDA • ETL • SQL • Tableau • Power BI
 
 📌 Overview
 
-This project analyzes medical insurance data to identify the key factors driving insurance costs. The workflow covers data cleaning, exploratory analysis, ETL, SQL-based analytics, and interactive Tableau dashboards.
+This project analyzes medical insurance data to identify the key factors driving insurance costs. The workflow covers data cleaning, exploratory analysis, ETL, SQL-based analytics, and interactive Tableau and Power BI dashboards.
 
 🎯 Objectives
 
@@ -18,6 +18,7 @@ Support pricing and risk assessment decisions
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Microsoft SQL Server
 Tableau
+Power BI
 Jupyter Notebook, GitHub
 
 🔄 ETL & Analysis
@@ -36,12 +37,11 @@ Obese smokers represent the highest-risk segment
 
 📈 Dashboard
 
-Interactive Tableau dashboard featuring:
+Interactive Tableau and Power BI dashboard featuring:
 Executive KPIs (Avg Cost, Customers, % Smokers)
 Cost drivers by smoker status, BMI, and age group
 Risk analysis (BMI vs Charges scatter plot)
 Regional cost comparison
-
 
 📬 Contact
 Muzna Nazhath
